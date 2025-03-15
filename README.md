@@ -1,2 +1,2 @@
 # TSMformer
-An early release version of the TSMformer code.  
+An early release version of the TSMformer(Trend-Seasonal Modeling Transformer with Multi-layer Specialization) code.  
